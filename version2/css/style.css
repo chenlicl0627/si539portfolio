@@ -1,0 +1,44 @@
+.bg-primary{
+  background-color: transparent!important;
+}
+p{
+  color:black
+}
+
+header{
+  bordr-bottom:1px solid #eee;
+}
+
+.bg-secondary{
+  background-color: white!important;
+}
+
+#mainNav .navbar-nav li.nav-item a.nav-link{
+  color:black;
+}
+
+.button-bg
+{
+  background-color: black !important;
+}
+
+.btn-outline-light{
+  color:#EF7F56;
+  border-color:#EF7F56;
+}
+
+.footer{
+  background: white;
+}
+
+
+@media (min-width:992px){
+  header.masthead{
+    padding-top:9rem !important;
+    padding-bottom: 3rem !important;}
+  }
+}
+
+.profile-image{
+  background-image: url(“img/about/profile-image.jpg”)；
+}
